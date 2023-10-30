@@ -1,0 +1,6 @@
+org\example\models\Player.class
+org\example\controllers\PlayerController.class
+org\example\models\CustomPlayerSerializer.class
+org\example\repositories\CSVPlayerRepository.class
+org\example\repositories\PlayerRepository.class
+org\example\PlayerServiceApplication.class
